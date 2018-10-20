@@ -1,0 +1,6 @@
+*.class
+*.xml
+.settings/*
+.classpath
+.project
+*.patch
